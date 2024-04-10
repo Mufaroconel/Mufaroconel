@@ -8,9 +8,9 @@
 
 -📫 How to reach me:
 
--Email: nyakudyamufa2002@gmail.com
--Linkedin: https://www.linkedin.com/in/mufaro-nyakudya-761505232/
--WhatsApp: +263776681617 or +263711475883
++ Email: nyakudyamufa2002@gmail.com
++ Linkedin: https://www.linkedin.com/in/mufaro-nyakudya-761505232/
++ WhatsApp: +263776681617 or +263711475883
 
 <!---
 Mufaroconel/Mufaroconel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
