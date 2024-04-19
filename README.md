@@ -15,6 +15,9 @@
     <a href="https://wa.me/+263776681617">
         <img src="whatsapp-1844471_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
     </a>
+    <a href="[https://wa.me/+263776681617](https://www.linkedin.com/in/mufaro-nyakudya-761505232/)">
+        <img src="social-1834011_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
+    </a>
 </div>
 <div style="position: fixed; bottom: 20px; right: 20px;">
     <a href="[https://wa.me/+263776681617](https://www.linkedin.com/in/mufaro-nyakudya-761505232/)">
