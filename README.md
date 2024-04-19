@@ -10,8 +10,12 @@
 
 + Email: nyakudyamufa2002@gmail.com
 + Linkedin: https://www.linkedin.com/in/mufaro-nyakudya-761505232/
-+ WhatsApp: +263776681617 or +263711475883
-+ ![Uploading whatsapp-1844471_1280.png…]()
++ WhatsApp: +263776681617 or +263711475883 <br>
+<div style="position: fixed; bottom: 20px; right: 20px;">
+    <a href="https://wa.me/+263776681617">
+        <img src="whatsapp-1844471_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
+    </a>
+</div>
 
 <!---
 Mufaroconel/Mufaroconel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
