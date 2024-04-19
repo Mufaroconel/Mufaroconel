@@ -11,8 +11,8 @@
 + Email: nyakudyamufa2002@gmail.com
 <br>
 <div style="position: fixed; bottom: 20px; right: 20px;">
-    <a href="[https://wa.me/+263776681617](https://mail.google.com/mail/?view=cm&fs=1&to=nyakudyamufa2002@gmail.com&su=Excited%20to%20Connect!&body=Hello%20Codeconel👨‍💻,%0A%0AI%20hope%20this%20email%20finds%20you%20well!%20I%20am%20excited%20to%20connect%20with%20you%20and%20would%20like%20to%20discuss%20the%20following%20topic(s):%0A%0A[Add%20your%20message%20here]%0A%0APlease%20feel%20free%20to%20reply%20to%20this%20email%20with%20any%20information%20or%20questions.%0A%0AThank%20you%20and%20have%20a%20great%20day!%0A%0A[Enter%20Your%20Name%20and%20Contact%20Information]%0A%0A%Bcc=someone.else@example.com)">
-        <img src="logo-1162901_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nyakudyamufa2002@gmail.com&su=Excited%20to%20Connect!&body=Hello%20Codeconel👨‍💻,%0A%0AI%20hope%20this%20email%20finds%20you%20well!%20I%20am%20excited%20to%20connect%20with%20you%20and%20would%20like%20to%20discuss%20the%20following%20topic(s):%0A%0A[Add%20your%20message%20here]%0A%0APlease%20feel%20free%20to%20reply%20to%20this%20email%20with%20any%20information%20or%20questions.%0A%0AThank%20you%20and%20have%20a%20great%20day!%0A%0A[Enter%20Your%20Name%20and%20Contact%20Information]%0A%0A%Bcc=someone.else@example.com)](https://mail.google.com/mail/?view=cm&fs=1&to=nyakudyamufa2002@gmail.com&su=Excited%20to%20Connect!&body=Hello%20Codeconel👨‍💻,%0A%0AI%20hope%20this%20email%20finds%20you%20well!%20I%20am%20excited%20to%20connect%20with%20you%20and%20would%20like%20to%20discuss%20the%20following%20topic(s):%0A%0A[Add%20your%20message%20here]%0A%0APlease%20feel%20free%20to%20reply%20to%20this%20email%20with%20any%20information%20or%20questions.%0A%0AThank%20you%20and%20have%20a%20great%20day!%0A%0A[Enter%20Your%20Name%20and%20Contact%20Information]%0A%0A%Bcc=someone.else@example.com">
+        <img src="gmail-4561841_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
     </a>
     <a href="https://wa.me/+263776681617">
         <img src="whatsapp-1844471_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
@@ -20,7 +20,7 @@
     <a href="https://wa.me/+263711475883">
         <img src="whatsapp-1844471_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
     </a>
-    <a href="[https://wa.me/+263776681617](https://www.linkedin.com/in/mufaro-nyakudya-761505232/)">
+    <a href="https://www.linkedin.com/in/mufaro-nyakudya-761505232/">
         <img src="social-1834011_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
     </a>
 </div>
