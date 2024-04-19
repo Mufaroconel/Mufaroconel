@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Mufaroconel (Codeconel)
+# 👋 Hi, I'm '@Mufaroconel' (*Codeconel*)
 
 - 👀 I'm interested in data science, AI, and machine learning, and I'm passionate about applying these technologies to solve real-world problems.
 
