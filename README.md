@@ -18,7 +18,7 @@
     <a href="https://wa.me/+263711475883">
         <img src="whatsapp-1844471_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
     </a>
-    <a href="https://www.linkedin.com/in/mufaro-nyakudya-761505232/" target="_blank">LinkedIn Profile</a>
+    <a href="https://www.linkedin.com/in/mufaro-nyakudya-761505232/"</a>
         <img src="social-1834011_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
     </a>
 </div>
