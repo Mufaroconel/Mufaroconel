@@ -11,7 +11,10 @@
 + Email: nyakudyamufa2002@gmail.com
 + Linkedin: https://www.linkedin.com/in/mufaro-nyakudya-761505232/
 + WhatsApp: +263776681617 or +263711475883
-+ ![whatsapp](https://github.com/Mufaroconel/Mufaroconel/assets/128815143/7ce9d1f6-9bf2-4e58-8737-2aa15a1f239b)
+<div style="position: fixed; bottom: 20px; right: 20px;">
+    <img src="whatsapp-1844471_1280.png" alt="WhatsApp Icon" style="width: 50px; height: auto;">
+</div>
+
 
 
 <!---
