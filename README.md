@@ -1,6 +1,6 @@
 # 👋 Hi, I'm '@Mufaroconel' (*Codeconel👨‍💻*)
 
-## 👀 I'm interested in data science, AI, and machine learning, and I'm passionate about applying these technologies to solve real-world problems.
+### 👀 I'm interested in data science, AI, and machine learning, and I'm passionate about applying these technologies to solve real-world problems.
 
 ### 🌱 I'm currently learning at the University of Zimbabwe, where I'm acquiring a strong foundation in data science and gaining hands-on experience in AI and ML. During my free time, I'm constantly expanding my skill set and applying what I've learned through personal projects.
 
