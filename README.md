@@ -11,6 +11,8 @@
 + Email: nyakudyamufa2002@gmail.com
 + Linkedin: https://www.linkedin.com/in/mufaro-nyakudya-761505232/
 + WhatsApp: +263776681617 or +263711475883
++ ![whatsapp](https://github.com/Mufaroconel/Mufaroconel/assets/128815143/7ce9d1f6-9bf2-4e58-8737-2aa15a1f239b)
+
 
 <!---
 Mufaroconel/Mufaroconel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
