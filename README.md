@@ -8,11 +8,14 @@
 
 # MY Learning Curve
 <div style="text-align: center;">
-    <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
-        <ul>ETL and Data Pipelines</ul>
+    <div style="display: inline-block; text-align: left;">
+        <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
+            <ul>ETL and Data Pipelines</ul>
+        </a> 
         <img src="coding-1853305_1280.jpg" alt="Data" style="width: 150px; height: 150px;">
-    </a> 
+    </div>
 </div>
+
 
 <br><br>
 
