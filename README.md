@@ -1,5 +1,8 @@
 # 👋 Hi, I'm '@Mufaroconel' (*Codeconel👨‍💻*)
 
+## DATA SCIENTIST
+## DATA ENGINEER | DATA ANALYST | MACHINE LEARNING ENGINEER
+
 ### 👀 I'm interested in data science, AI, and machine learning, and I'm passionate about applying these technologies to solve real-world problems.
 
 ### 🌱 I'm currently learning at the University of Zimbabwe, where I'm acquiring a strong foundation in data science and gaining hands-on experience in AI and ML. During my free time, I'm constantly expanding my skill set and applying what I've learned through personal projects.
@@ -9,13 +12,14 @@
 # MY Learning Curve
 
 <div style="border: 2px solid black; padding: 10px;">
-    <div style="display: inline-block; text-align: center;">
+    <div style="display: inline-block; text-align: center; margin-left: 50px;">
         <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
             <ul>ETL and Data Pipelines</ul>
         </a> 
-        <img src="coding-1853305_1280.jpg" alt="Data" style="width: 100px; height: 100px; margin-left: 50px;">
+        <img src="coding-1853305_1280.jpg" alt="Data" style="width: 100px; height: 100px;">
     </div>
 </div>
+
 
 
 
