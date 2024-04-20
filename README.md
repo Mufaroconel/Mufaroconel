@@ -19,8 +19,8 @@
            <ul><img src="coding-1853305_1280.jpg" alt="Data" style="width: 160px; height: 160px; border-radius: 50%;"></ul>
     </div>
     <div style="display: inline-block; text-align: center; margin-left: 50px;">
-        <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
-            <ul>ETL and Data Pipelines</ul>
+        <a href="https://github.com/Mufaroconel/Django-Corsera">
+            <ul>Django</ul>
            <ul><img src="coding-1853305_1280.jpg" alt="Data" style="width: 160px; height: 160px; border-radius: 50%;"></ul>
     </div>
 </div>
