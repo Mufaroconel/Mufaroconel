@@ -39,3 +39,4 @@
         <img src="social-1834011_1280.png" alt="LinkedIn Icon" style="width: 50px; height: auto;">
     </a>
 </div>
+
