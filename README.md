@@ -8,9 +8,9 @@
 # MY learning Curve
 
 <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
-    <h1>ETL and Data Pipelines<h1/>
+    <ul>ETL and Data Pipelines<ul/>
         <img src="coding-1853305_1280.jpg" alt="WhatsApp Icon" style="width: 100px; height: auto;">
-    </a>
+    </a> <br>
 # 📫 How to reach me:
 <br>
 <div style="position: fixed; bottom: 20px; right: 20px;">
