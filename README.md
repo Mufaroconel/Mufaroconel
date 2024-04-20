@@ -1,7 +1,8 @@
 # 👋 Hi, I'm '@Mufaroconel' (*Codeconel👨‍💻*)
 
 ## DATA SCIENTIST
-## DATA ENGINEER | DATA ANALYST | MACHINE LEARNING ENGINEER
+
+#### *roles* 👨‍💻 DATA ENGINEER | 📊 DATA ANALYST | 🤖 MACHINE LEARNING ENGINEER
 
 ### 👀 I'm interested in data science, AI, and machine learning, and I'm passionate about applying these technologies to solve real-world problems.
 
