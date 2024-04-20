@@ -8,7 +8,7 @@
 # MY learning Curve
 <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
     <ul>ETL and Data Pipelines<ul/>
-        <img src="coding-1853305_1280.jpg" alt="Data" style="width: 100px; height: auto;">
+        <img src="coding-1853305_1280.jpg" alt="Data" style="width: 150px; height: 150px;">
     </a> 
 
 <br><br>
