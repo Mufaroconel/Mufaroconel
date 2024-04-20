@@ -11,24 +11,13 @@
 #### 💞️ I'm looking to collaborate on exciting AI and ML projects, connect with fellow enthusiasts, and engage in knowledge-sharing to foster innovation.
 
 # MY Learning Curve
-
-<div style="text-align: center;">
-    <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka" style="display: inline-block;">
-        <ul>ETL and Data Pipelines</ul>
-        <ul><img src="coding-1853305_1280.jpg" alt="Data" style="width: 150px; height: 150px;"></ul>
-    </a>
-</div>
-
-    
 <div style="border: 2px solid black; padding: 10px;">
     <div style="display: inline-block; text-align: center; margin-left: 50px;">
         <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
             <ul>ETL and Data Pipelines</ul>
            <ul>
-           <li><img src="coding-1853305_1280.jpg" alt="Data" style="width: 160px; height: 160px; border-radius: 85px;"></li>
+           <li><img src="coding-1853305_1280.jpg" alt="Data" style="width: 160px; height: 160px; border-radius: 80px;"></li>
            </ul>
-
-        </a> 
 </div>
 
 <br><br>
