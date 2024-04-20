@@ -13,7 +13,7 @@
 # MY Learning Curve
 
 <div style="border: 2px solid black;">
-    <div style="display: inline-block; ">
+    <div  ">
         <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
             <ul>ETL and Data Pipelines</ul>
         </a> 
