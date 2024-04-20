@@ -7,8 +7,8 @@
 #### 💞️ I'm looking to collaborate on exciting AI and ML projects, connect with fellow enthusiasts, and engage in knowledge-sharing to foster innovation.
 
 # MY Learning Curve
-<div style="text-align: center; border:1px solid blue;">
-    <div style="display: inline-block; text-align: left;">
+<div style="text-align: center;">
+    <div style="display: inline-block; text-align: center;">
         <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
             <ul>ETL and Data Pipelines</ul>
         </a> 
