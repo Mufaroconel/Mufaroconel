@@ -5,7 +5,12 @@
 ### 🌱 I'm currently learning at the University of Zimbabwe, where I'm acquiring a strong foundation in data science and gaining hands-on experience in AI and ML. During my free time, I'm constantly expanding my skill set and applying what I've learned through personal projects.
 
 #### 💞️ I'm looking to collaborate on exciting AI and ML projects, connect with fellow enthusiasts, and engage in knowledge-sharing to foster innovation.
+# MY learning Curve
 
+<a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
+    <h1>ETL and Data Pipelines<h1/>
+        <img src="coding-1853305_1280.jpg" alt="WhatsApp Icon" style="width: 100px; height: auto;">
+    </a>
 # 📫 How to reach me:
 <br>
 <div style="position: fixed; bottom: 20px; right: 20px;">
