@@ -13,7 +13,7 @@
         <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
             <ul>ETL and Data Pipelines</ul>
         </a> 
-        <img src="coding-1853305_1280.jpg" alt="Data" style="width: 100px; height: 100px; padding-left: 50px;">
+        <img src="coding-1853305_1280.jpg" alt="Data" style="width: 100px; height: 100px; margin-left: 50px;">
     </div>
 </div>
 
