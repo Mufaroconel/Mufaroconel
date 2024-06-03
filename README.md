@@ -15,7 +15,7 @@
 <div style="border: 2px solid black; padding: 10px;">
     <div style="display: inline-block; text-align: center; margin-left: 50px;">
         <a href="https://github.com/Mufaroconel/ETL-and-Data-Pipelines-with-Shell-Airflow-and-Kafka">
-           <ul><img src="images-removebg-preview.png" alt="Data" style="width: 160px; height: 160px; border-radius: 50%;"></ul>
+           <ul><img src="images-removebg-preview.png" alt="Data" style="width: 80px; height: 160px; border-radius: 50%;"></ul>
     </div>
     <div style="display: inline-block; text-align: center; margin-left: 50px;">
         <a href="https://github.com/Mufaroconel/Django-Coursera">
