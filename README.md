@@ -19,7 +19,7 @@
     </div>
     <div style="display: inline-block; text-align: center; margin-left: 50px;">
         <a href="https://github.com/Mufaroconel/Django-Coursera">
-           <ul><img src="django-339744_1280.png" alt="Data" style="width: 160px; height: 160px; border-radius: 50%;"></ul>
+           <ul><img src="django-basics-removebg-preview.png" alt="Data" style="width: 160px; height: 160px; border-radius: 50%;"></ul>
     </div>
 </div>
 
