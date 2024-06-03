@@ -21,6 +21,10 @@
         <a href="https://github.com/Mufaroconel/Django-Coursera">
            <ul><img src="django-basics-removebg-preview.png" alt="Data" style="width: 200px; height: 80px; border-radius: 50%;"></ul>
     </div>
+    <div style="display: inline-block; text-align: center; margin-left: 50px;">
+        <a href="https://github.com/Mufaroconel/Supervised-Machine-Learning--Regression-and-Classification">
+           <ul><img src="8618881.png" alt="Data" style="width: 200px; height: 80px; border-radius: 50%;"></ul>
+    </div>
 </div>
 
 <br><br>
