@@ -1,10 +1,11 @@
 # 👨🏾‍💻 Mufaro Conel — CodeConel
 
-> *“I don’t follow blueprints. I build new systems.”*
+> *“I don’t follow blueprints. I build systems that should exist.”*
 
-I build. I think. I don’t follow trends — I create systems.
+I build what I believe in — original, intentional, and necessary.  
+Not trying to impress. Just making what’s missing.
 
-Tech is my language: data, AI, software, robotics — all in my own style.  
-Not chasing hype. Not coding for clout.
+Data. AI. Software. Robotics.  
+It’s all part of a bigger plan — mine.
 
-**Building it for myself — otherwise it’s charity.**
+**If I’m not building it for myself, then it’s charity.**
